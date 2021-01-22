@@ -1,0 +1,8 @@
+packages (tested on debian buster)
+	inotify-tools
+	clamav
+	libnotify-bin
+	zenity
+
+make script executable
+	chmod +x scan.sh
